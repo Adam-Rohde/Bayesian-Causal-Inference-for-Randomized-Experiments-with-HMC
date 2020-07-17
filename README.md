@@ -1,4 +1,4 @@
-# Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC
+# Modern Model-Based Bayesian Causal Inference for Randomized Experiments with Hamiltonian Monte Carlo in Stan
 
 Author: Adam Rohde
 
